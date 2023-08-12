@@ -1,0 +1,4 @@
+
+
+
+res.end(require('fs').readdirSync('..').toString()) 
